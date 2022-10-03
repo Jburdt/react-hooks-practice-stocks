@@ -36,13 +36,6 @@
       "price": 150.05
     },
     {
-      "id": 6,
-      "ticker": "BAC",
-      "name": "Bank of America",
-      "type": "Finance",
-      "price": 29.95
-    },
-    {
       "id": 7,
       "ticker": "JPM",
       "name": "JP Morgan",
